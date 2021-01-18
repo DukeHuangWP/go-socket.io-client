@@ -11,13 +11,13 @@ It is compatible with latest implementation of socket.io in node.js, and support
 Install the package with:
 
 ```bash
-go get github.com/zhouhui8915/go-socket.io-client
+go get github.com/DukeHuangWP/go-socket.io-client
 ```
 
 Import it with:
 
 ```go
-import "github.com/zhouhui8915/go-socket.io-client"
+import "github.com/DukeHuangWP/go-socket.io-client"
 ```
 
 and use `socketio_client` as the package name inside the code.
@@ -31,7 +31,7 @@ package main
 
 import (
 	"bufio"
-	"github.com/mofadeyunduo/go-socket.io-client"
+	"github.com/DukeHuangWP/go-socket.io-client"
 	"log"
 	"os"
 )
